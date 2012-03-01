@@ -1,4 +1,4 @@
-package ru.logic;
+package ru;
 
 import javax.swing.*;
 

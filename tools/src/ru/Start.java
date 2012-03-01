@@ -1,7 +1,5 @@
 package ru;
 
-import ru.logic.Game;
-
 /**
  * Alexandra Mikhaylova mikhaylova@yandex-team.ru
  */

@@ -1,4 +1,4 @@
-package ru.logic;
+package ru;
 
 /**
  * Alexandra Mikhaylova mikhaylova@yandex-team.ru
